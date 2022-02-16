@@ -1,0 +1,12 @@
+.card{
+
+    margin: 1rem;
+    background-color: aqua;
+    padding: 1rem;
+    border: 2px solid black;
+    font-family: 'Oswald', sans-serif;
+    width: 16rem !important;
+    display: flex;
+   
+    flex-direction: column;
+}

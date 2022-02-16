@@ -1,0 +1,8 @@
+#cardRow{
+  display: flex;
+  flex-wrap: wrap;
+}
+.title1{
+  display: flex;
+  justify-content: center;
+}
